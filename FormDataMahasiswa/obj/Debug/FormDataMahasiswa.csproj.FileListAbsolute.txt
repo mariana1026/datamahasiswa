@@ -1,0 +1,10 @@
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\bin\Debug\FormDataMahasiswa.exe.config
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\bin\Debug\FormDataMahasiswa.exe
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\bin\Debug\FormDataMahasiswa.pdb
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.csprojAssemblyReference.cache
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.FormListMahasiswa.resources
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.Properties.Resources.resources
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.csproj.GenerateResource.cache
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.csproj.CoreCompileInputs.cache
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.exe
+D:\C#\FormDataMahasiswa\FormDataMahasiswa\obj\Debug\FormDataMahasiswa.pdb
